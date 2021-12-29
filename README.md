@@ -5,3 +5,4 @@ A major bottleneck activity in the process of restoration of Heritage Structures
 
 ## Approach
 * Creating the dataset using Autodesk MAYA
+![]<images/Input Fragments.PNG>
